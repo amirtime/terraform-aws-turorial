@@ -1,2 +1,2 @@
-# terraform-aws-turorial
+# terraform-aws-toturial
 Create Terraform Artifact 
