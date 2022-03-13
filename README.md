@@ -1,2 +1,2 @@
-# terraform-aws-toturial
+# terraform-aws-tutorial
 Create Terraform Artifact 
